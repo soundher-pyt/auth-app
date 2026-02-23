@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment variables (sensitive!)
+.env
+
+# React build
+build/
+
+# Mac files
+.DS_Store
